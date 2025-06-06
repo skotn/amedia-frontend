@@ -1,0 +1,33 @@
+.card {
+    padding: 20px;
+    margin: 12px 0;
+    border: 2px black;
+    border-radius: 12px;
+
+    height: 80px;
+    width: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.r {
+    background-color: #dc3dc9;
+    color: black;
+}
+
+.h {
+    background-color: #ff0040;
+    color: black;
+}
+
+.k {
+    background-color: #000000;
+    color: rgb(221, 221, 221);
+}
+
+.s {
+    background-color: #494949;
+    color: rgb(211, 211, 211);
+}
